@@ -22,7 +22,7 @@ The user runs the project in the terminal with npm run start. Then the user resp
 MIT
 
 ## Contributing
-undefined
+Tristan Persaud, Nick Bappe, Gage Degeneress, Blake Anderson, Kelly Hookham 
 
 ## Tests
 npm run start to being the program.
