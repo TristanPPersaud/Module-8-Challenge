@@ -29,4 +29,4 @@ npm run start to being the program.
 
 ## Questions
 For any questions, please contact me at [tristanppersaud@gmail.com](mailto:tristanppersaud@gmail.com).
-GitHub: [undefined](https://github.com/undefined)
+GitHub: [TristanPPersaud](https://github.com/TristanPPersaud)
